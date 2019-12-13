@@ -1,2 +1,2 @@
-# michazak
+# michalzak
 personal website
